@@ -68,7 +68,7 @@ This dashboard was built using :
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Images/2-Profits20%Analysis20%Dashboard.png)
+![Dashboard](Images/2-Profits%20Analysis%20Dashboard.png)
 
 ## 🎯 Purpose
 
