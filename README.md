@@ -70,6 +70,11 @@ This dashboard was built using :
 
 ![Dashboard](Images/2-Profits%20Analysis%20Dashboard.png)
 
+## 🎥 Dashboard Walkthrough
+
+👉 **[Watch Full Video](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)**
+
+
 ## 🎯 Purpose
 
 This dashboard helps to:
