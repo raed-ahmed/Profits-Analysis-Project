@@ -1,4 +1,4 @@
-# 📊 Profits Analysis Dashboard
+# 📊 Profits Analysis Project 
 
 ## 📌 Overview
 
