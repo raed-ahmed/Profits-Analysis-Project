@@ -72,7 +72,7 @@ This dashboard was built using :
 
 ## 🎥 Dashboard Walkthrough
 
-👉 **[Watch Full Video](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)**
+👉 **[Watch Full Video](https://drive.google.com/file/d/1qXRjpJ4A08tI_LNcJCjtbYWiPC-W7luu/view?usp=drivesdk)**
 
 
 ## 🎯 Purpose
