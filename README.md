@@ -66,7 +66,7 @@ This dashboard was built using :
 * **Power Pivot** (Data Modeling & Relationships)
 * **Dashboard Design** (Interactive UI & Visualization)
 
-## 📷 Dashboard Preview
+## 📷 Project Preview
 * Home Page
 ![Dashboard](Images/1-Home%20Page.png)
 * Profits Dashboard
