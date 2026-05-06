@@ -70,7 +70,7 @@ This dashboard was built using :
 
 ![Dashboard](Images/2-Profits%20Analysis%20Dashboard.png)
 
-## 🎥 Dashboard Walkthrough
+## 🎥 Interactive Video
 
 👉 **[Watch Full Video](https://drive.google.com/file/d/1qXRjpJ4A08tI_LNcJCjtbYWiPC-W7luu/view?usp=drivesdk)**
 
