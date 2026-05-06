@@ -1,4 +1,4 @@
-# 📊 Profits Analysis Project 
+# 📊 Profits Analysis Project (Excel)
 
 ## 📌 Overview
 
