@@ -67,7 +67,9 @@ This dashboard was built using :
 * **Dashboard Design** (Interactive UI & Visualization)
 
 ## 📷 Dashboard Preview
-
+* Home Page
+![Dashboard](Images/1-Home%20Page.png)
+* Profits Dashboard
 ![Dashboard](Images/2-Profits%20Analysis%20Dashboard.png)
 
 ## 🎥 Interactive Video
