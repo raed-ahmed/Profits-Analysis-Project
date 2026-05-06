@@ -68,7 +68,7 @@ This dashboard was built using :
 
 ## 📷 Project Preview
 * Home Page
-![Dashboard](Images/Images/1-Home%20page.png)
+![Dashboard](Images/1-Home%20page.png)
 * Profits Dashboard
 ![Dashboard](Images/2-Profits%20Analysis%20Dashboard.png)
 
